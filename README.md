@@ -5,7 +5,6 @@ The aim of this project is to develop a modern data warehouse using SQL Server t
 - **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 - **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 
-[//]: # (**Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights. </Co)
 
 
 
@@ -16,6 +15,9 @@ Our documentation is located in the Documentation folder where all documents and
 ### Architecture Diagram
 
 ![Database Schema](Documentation/architecture_diagram.png)
+
+### Flow Diagram
+![Flow Diagram](Documentation/flow_diagram.png)
 
 ### Naming Conventions
 Our Naming Conventions can be found [here](Documentation/naming_conventions.md).
