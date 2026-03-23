@@ -15,7 +15,7 @@ BEGIN
 		PRINT 'Loading CRM';
 		PRINT '------------------------';
 
-		-- CUST INFO--^
+		-- CUST INFO--
 		SET @start_time = GETDATE();
 		PRINT '## Truncating: bronze.crm_cust_info';
 		TRUNCATE TABLE bronze.crm_cust_info;
